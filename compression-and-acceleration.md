@@ -51,6 +51,7 @@
 - [Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1](https://arxiv.org/pdf/1602.02830.pdf)
 - [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://arxiv.org/pdf/1603.05279.pdf)
 - [DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients](https://arxiv.org/pdf/1606.06160.pdf)
+- [Regularizing activation distribution for training binarized deep networks](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ding_Regularizing_Activation_Distribution_for_Training_Binarized_Deep_Networks_CVPR_2019_paper.pdf)
 
 #### Quantization
 - [Quantize weights and activations in Recurrent Neural Networks](https://arxiv.org/pdf/1611.10176.pdf)
@@ -74,6 +75,7 @@
 - [Training Quantized Network with Auxiliary Gradient Module](Training Quantized Network with Auxiliary Gradient Module)
 - [混合精度量化Mixed precision quantization of convnets via differentiable neural architecture search](https://arxiv.xilesou.top/pdf/1812.00090.pdf)
 - [GDRQ: Group-based Distribution Reshaping for Quantization](https://arxiv.xilesou.top/pdf/1908.01477.pdf)
+- [On the Universal Approximability and Complexity Bounds of Quantized ReLU Neural Networks](https://arxiv.xilesou.top/pdf/1802.03646.pdf)
 
 #### Pruning
 - [Data-Driven Sparse Structure Selection for Deep Neural Networks](https://arxiv.org/pdf/1707.01213.pdf)
@@ -88,6 +90,7 @@
 - [Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/pdf/1608.04493.pdf)
 - [ESE: Efficient Speech Recognition Engine with Sparse LSTM on FPGA](https://arxiv.org/pdf/1612.00694.pdf)
 - [Faster CNNs with Direct Sparse Convolutions and Guided Pruning](https://arxiv.org/pdf/1608.01409.pdf)
+- [Structured pruning for efficient convnets via incremental regularization](https://arxiv.xilesou.top/pdf/1804.09461.pdf)
 
 #### Low Rank Approximation
 - [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/pdf/1404.0736.pdf)
