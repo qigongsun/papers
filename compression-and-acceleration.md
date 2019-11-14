@@ -65,6 +65,14 @@
 - [Trained Ternary Quantization](https://arxiv.org/pdf/1612.01064.pdf)
 - [Defensive Quantization: When Efficiency Meets Robustness](https://arxiv.org/pdf/1904.08444.pdf)
 - [混合精度量化HAQ: Hardware-Aware Automated Quantization with Mixed Precision](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_HAQ_Hardware-Aware_Automated_Quantization_With_Mixed_Precision_CVPR_2019_paper.html)
+- [Differentiable soft quantization: Bridging full-precision and low-bit neural networks](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gong_Differentiable_Soft_Quantization_Bridging_Full-Precision_and_Low-Bit_Neural_Networks_ICCV_2019_paper.pdf)
+- [HAWQ: Hessian AWare Quantization of Neural Networks with Mixed-Precision](https://arxiv.xilesou.top/pdf/1905.03696.pdf)
+- [Structured Binary Neural Networks for Image Recognition](https://arxiv.xilesou.top/pdf/1909.09934.pdf)
+- [Mixed Precision DNNs: All you need is a good parametrization](https://openreview.net/pdf?id=Hyx0slrFvH)
+- [AutoQB: AutoML for Network Quantization and Binarization on Mobile Devices](https://arxiv.xilesou.top/pdf/1902.05690.pdf)
+- [Training Quantized Network with Auxiliary Gradient Module](Training Quantized Network with Auxiliary Gradient Module)
+- [混合精度量化Mixed precision quantization of convnets via differentiable neural architecture search](https://arxiv.xilesou.top/pdf/1812.00090.pdf)
+- [GDRQ: Group-based Distribution Reshaping for Quantization](https://arxiv.xilesou.top/pdf/1908.01477.pdf)
 
 #### Pruning
 - [Data-Driven Sparse Structure Selection for Deep Neural Networks](https://arxiv.org/pdf/1707.01213.pdf)
@@ -89,8 +97,6 @@
 - [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/pdf/1404.0736.pdf)
 - [Speeding up convolutional neural networks with low rank expansions](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14b/jaderberg14b.pdf)
 
-#### Neural Architecture Search
 
--[ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware](https://arxiv.org/pdf/1812.00332.pdf)
 
 
