@@ -6,3 +6,4 @@
 - [Amc: Automl for model compression and acceleration on mobile devices](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf)
 - [Single path one-shot neural architecture search with uniform sampling](https://arxiv.xilesou.top/pdf/1904.00420.pdf)
 - [Network slimming by slimmable networks: Towards one-shot architecture search for channel numbers](https://arxiv.xilesou.top/pdf/1903.11728.pdf)
+- [Understanding and Robustifying Differentiable Architecture Search](https://arxiv.xilesou.top/pdf/1909.09656.pdf)
