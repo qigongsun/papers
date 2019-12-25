@@ -38,7 +38,7 @@
 - [Relaxed quantization for discretized neural networks](https://arxiv.xilesou.top/pdf/1810.01875.pdf)
 - [Learning to Quantize Deep Networks byOptimizing Quantization Intervals with Task Loss](http://openaccess.thecvf.com/content_CVPR_2019/papers/Jung_Learning_to_Quantize_Deep_Networks_by_Optimizing_Quantization_Intervals_With_CVPR_2019_paper.pdf)
 
-####mix-bit quantization
+#### mix-bit quantization
 - [2017][Mixed Low-precision Deep Learning Inference using Dynamic Fixed Point](https://arxiv.xilesou.top/pdf/1701.08978.pdf)
 - [2017][Stochastic Quantization for Learning Accurate Low-Bit Deep Neural Networks](https://link_springer.xilesou.top/article/10.1007/s11263-019-01168-2)
 - [2018][Mixed precision quantization of convnets via differentiable neural architecture search](https://arxiv.xilesou.top/pdf/1812.00090.pdf)
