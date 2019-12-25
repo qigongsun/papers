@@ -1,4 +1,4 @@
-#### 低bit量化
+#### low-bit quantization
 - [BinaryConnect: Training Deep Neural Networks with binary weights during propagations](https://arxiv.org/pdf/1511.00363.pdf)
 - [Local Binary Convolutional Neural Networks](https://arxiv.org/pdf/1608.06049.pdf)
 - [Binarized Convolutional Neural Networks with Separable Filters for Efficient Hardware Acceleration](https://arxiv.org/pdf/1707.04693.pdf)
@@ -12,7 +12,7 @@
 - [Alternating Multi-bit Quantization for Recurrent Neural Networks](https://arxiv.org/pdf/1802.00150.pdf)
 - [PACT: Parameterized Clipping Activation for Quantized Neural Networks](https://arxiv.org/pdf/1805.06085.pdf)
 
-#### 多bit量化
+#### high-bit quantization
 - [Quantize weights and activations in Recurrent Neural Networks](https://arxiv.org/pdf/1611.10176.pdf)
 - [The ZipML Framework for Training Models with End-to-End Low Precision: The Cans, the Cannots, and a Little Bit of Deep Learning](https://arxiv.org/pdf/1611.05402.pdf)
 - [Quantized Convolutional Neural Networks for Mobile Devices](https://arxiv.org/pdf/1512.06473.pdf)
@@ -38,7 +38,7 @@
 - [Relaxed quantization for discretized neural networks](https://arxiv.xilesou.top/pdf/1810.01875.pdf)
 - [Learning to Quantize Deep Networks byOptimizing Quantization Intervals with Task Loss](http://openaccess.thecvf.com/content_CVPR_2019/papers/Jung_Learning_to_Quantize_Deep_Networks_by_Optimizing_Quantization_Intervals_With_CVPR_2019_paper.pdf)
 
-###混合精度量化
+###mix-bit quantization
 - [2017][Mixed Low-precision Deep Learning Inference using Dynamic Fixed Point](https://arxiv.xilesou.top/pdf/1701.08978.pdf)
 - [2017][Stochastic Quantization for Learning Accurate Low-Bit Deep Neural Networks](https://link_springer.xilesou.top/article/10.1007/s11263-019-01168-2)
 - [2018][Mixed precision quantization of convnets via differentiable neural architecture search](https://arxiv.xilesou.top/pdf/1812.00090.pdf)
@@ -47,9 +47,9 @@
 
 - [2018][Mixed precision training of convolutional neural networks using integer operations](https://arxiv.xilesou.top/abs/1802.00930)
 
-- [2018] [Mixed precision architecture based on computational memory for training deep neural networks](https://ieeexplore_ieee.xilesou.top/abstract/document/8351656/)
+- [2018][Mixed precision architecture based on computational memory for training deep neural networks](https://ieeexplore_ieee.xilesou.top/abstract/document/8351656/)
 
-- [2018] [Lower numerical precision deep learning inference and training](https://www.intel.ai/nervana/wp-content/uploads/sites/53/2018/05/Lower-Numerical-Precision-Deep-Learning-Inference-Training.pdf)
+- [2018][Lower numerical precision deep learning inference and training](https://www.intel.ai/nervana/wp-content/uploads/sites/53/2018/05/Lower-Numerical-Precision-Deep-Learning-Inference-Training.pdf)
 
 - [2018][Quantization and training of neural networks for efficient integer-arithmetic-only inference](http://openaccess.thecvf.com/content_cvpr_2018/html/Jacob_Quantization_and_Training_CVPR_2018_paper.html)
 
