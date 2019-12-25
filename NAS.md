@@ -4,6 +4,7 @@
 
 - [2018][Efficient neural architecture search via parameter sharing](https://arxiv.xilesou.top/pdf/1802.03268.pdf?fbclid=IwAR1RHoGyzFPepWpSyNA1TcySIjEto2scD7Fg3Pk6KOUygRNKXiA_r68MIkI)
 - [ECCV 2018][Amc: Automl for model compression and acceleration on mobile devices](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf)
+- [CVPR 2018][ Learning transferable architectures for scalable image recognition](https://arxiv.org/pdf/1707.07012.pdf)
 
 - [Journal of Machine Learning Research(2019)][Neural architecture search: A survey](https://arxiv.xilesou.top/pdf/1808.05377.pdf)
 - [CVPR 2019][FBNet: Hardware-Aware Efﬁcient ConvNet Design via Differentiable Neural Architecture Search](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_FBNet_Hardware-Aware_Efficient_ConvNet_Design_via_Differentiable_Neural_Architecture_Search_CVPR_2019_paper.pdf)
