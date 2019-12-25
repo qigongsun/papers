@@ -3,6 +3,7 @@
 - [ICML 2017][Large-scale evolution of image classifiers](https://arxiv.xilesou.top/pdf/1703.01041.pdf)
 - [ICLR 2017][Designing neural network architectures using reinforcement learning](https://arxiv.xilesou.top/pdf/1611.02167.pdf)
 - [2018][Efficient neural architecture search via parameter sharing](https://arxiv.xilesou.top/pdf/1802.03268.pdf?fbclid=IwAR1RHoGyzFPepWpSyNA1TcySIjEto2scD7Fg3Pk6KOUygRNKXiA_r68MIkI)
+- [2018][Mixed precision quantization of convnets via differentiable neural architecture search](https://arxiv.xilesou.top/pdf/1812.00090.pdf)
 - [AAAI 2018][Efficient Architecture Search by Network Transformation](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16755/16568)
 - [ECCV 2018][Amc: Automl for model compression and acceleration on mobile devices](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf)
 - [CVPR 2018][ Learning transferable architectures for scalable image recognition](https://arxiv.org/pdf/1707.07012.pdf)
