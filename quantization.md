@@ -63,3 +63,8 @@
 
 - [2019][HAQ: Hardware-Aware Automated Quantization with Mixed Precision](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_HAQ_Hardware-Aware_Automated_Quantization_With_Mixed_Precision_CVPR_2019_paper.pdf)
 - [2019][HAWQ: Hessian AWare Quantization of Neural Networks with Mixed-Precision](https://arxiv.xilesou.top/pdf/1905.03696.pdf)
+- [2020R][Learning Architectures for Binary Networks](https://arxiv.org/pdf/2002.06963.pdf)
+- [2019R][Any-Precision Deep Neural Networks](https://arxiv.org/pdf/1911.07346.pdf)
+- [2020R][AdaBits: Neural Network Quantization with Adaptive Bit-Widths](https://arxiv.org/pdf/1912.09666.pdf)
+- [2020R][Switchable Precision Neural Networks](https://arxiv.org/pdf/2002.02815.pdf)
+
