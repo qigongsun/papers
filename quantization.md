@@ -74,6 +74,6 @@
 - [2020R ICLR][Mixed Precision DNNs: All you need is a good parametrization](https://openreview.net/pdf?id=Hyx0slrFvH)
 提出用步长和动态范围对量化器进行参数化。 MobileNetV2 ResNet-18 4bit实验
 - [2020R ICLR][AutoQ: Automated Kernel-Wise Neural Network Quantization](https://arxiv.org/pdf/1902.05690.pdf)
-利用强化学习来训练Kernel-Wise的量化神经网络
+利用强化学习来训练Kernel-Wise的量化神经网络， Resnet-18 Resnet-50 MobileNetV2 4bit左右的实验
 
 - [2020 CVPR][Training Quantized Network with Auxiliary Gradient Module](https://arxiv.org/pdf/1903.11236.pdf)
