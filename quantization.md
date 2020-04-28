@@ -70,6 +70,8 @@
 在本文中，我们研究了一种新的方法来实现这一目标，即启用自适应比特宽度模型中的权重和激活。我们首先检查训练量化模型的好处和挑战自适应比特宽度，然后使用几种方法进行实验，包括直接自适应、渐进式训练以及联合训练。我们发现联合训练能够在自适应模型上产生可比的性能个别模型。我们还提出了一种新技术可切换限幅电平（S-CL），进一步改善最低比特宽度的量化模型。我们的提议在包括MobileNet V1/V2和ResNet50在内的一系列模型上应用的技术，我们证明了位宽度权重和激活是自适应的可执行的深层神经网络，提供了一个明显的机会来提高准确性和效率基于平台约束的即时自适应实际应用程序。
 
 - [2020R][Switchable Precision Neural Networks](https://arxiv.org/pdf/2002.02815.pdf)
+本文提出了一种灵活的量化策略，称为可切换精确神经网络（SP-net），用来训练一个能够在多个量化级别上工作的共享网络。在运行时，网络可以根据即时内存、延迟、功耗和准确性动态调整其精度要求。MobileNet ResNet-18 2bit 8bit 32bit实验
 - [2020R ICLR][Mixed Precision DNNs: All you need is a good parametrization](https://openreview.net/pdf?id=Hyx0slrFvH)
+提出用步长和动态范围对量化器进行参数化。 MobileNetV2 ResNet-18 4bit实验
 - [2020R][AutoQB: AutoML for Network Quantization and Binarization on Mobile Devices](https://arxiv.org/pdf/1902.05690.pdf)
 - [2020 CVPR][Training Quantized Network with Auxiliary Gradient Module](https://arxiv.org/pdf/1903.11236.pdf)
