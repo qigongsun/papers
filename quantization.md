@@ -54,7 +54,7 @@
 
 - [2019][Adaptive Precision Training: Quantify Back Propagation in Neural Networks with Fixed-point Numbers](https://arxiv.xilesou.top/abs/1911.00361)
 
-- [2019][Learning to quantize deep networks by optimizing quantization intervals with task loss](http://openaccess.thecvf.com/content_CVPR_2019/html/Jung_Learning_to_Quantize_Deep_Networks_by_Optimizing_Quantization_Intervals_With_CVPR_2019_paper.html)
+- [2019 CVPR][Learning to quantize deep networks by optimizing quantization intervals with task loss](http://openaccess.thecvf.com/content_CVPR_2019/html/Jung_Learning_to_Quantize_Deep_Networks_by_Optimizing_Quantization_Intervals_With_CVPR_2019_paper.html) 学习量化区间
 
 - [2019][Differentiable quantization of deep neural networksarXiv:1905.11452](https://arxiv.org/abs/1905.11452)
 
