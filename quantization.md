@@ -50,7 +50,8 @@
 
 - [2018][Quantization and training of neural networks for efficient integer-arithmetic-only inference](http://openaccess.thecvf.com/content_cvpr_2018/html/Jacob_Quantization_and_Training_CVPR_2018_paper.html)
 
-- [2018][Adaptive quantization for deep neural network](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16248)
+- [2018 AAAI][Adaptive quantization for deep neural network](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16248)
+提出了一种估计各层参数量化误差对整体模型预测精度。然后，我们提议基于此测量的寻优过程每层的最佳量化比特宽度。
 
 - [2019][Adaptive Precision Training: Quantify Back Propagation in Neural Networks with Fixed-point Numbers](https://arxiv.xilesou.top/abs/1911.00361)
 
@@ -60,10 +61,14 @@
 - [2019][Differentiable quantization of deep neural networksarXiv:1905.11452](https://arxiv.org/abs/1905.11452)
 
 - [2019][HAQ: Hardware-Aware Automated Quantization with Mixed Precision](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_HAQ_Hardware-Aware_Automated_Quantization_With_Mixed_Precision_CVPR_2019_paper.pdf)
+强化学习搜索网络每层的量化精度，MobileNet-V1， MobileNet-V2， Resnet-50
+
 - [2019][HAWQ: Hessian AWare Quantization of Neural Networks with Mixed-Precision](https://arxiv.org/pdf/1905.03696.pdf)
 - [2020R][Learning Architectures for Binary Networks](https://arxiv.org/pdf/2002.06963.pdf)
 - [2019R][Any-Precision Deep Neural Networks](https://arxiv.org/pdf/1911.07346.pdf)
 - [2020R][AdaBits: Neural Network Quantization with Adaptive Bit-Widths](https://arxiv.org/pdf/1912.09666.pdf)
+在本文中，我们研究了一种新的方法来实现这一目标，即启用自适应比特宽度模型中的权重和激活。我们首先检查训练量化模型的好处和挑战自适应比特宽度，然后使用几种方法进行实验，包括直接自适应、渐进式训练以及联合训练。我们发现联合训练能够在自适应模型上产生可比的性能个别模型。我们还提出了一种新技术可切换限幅电平（S-CL），进一步改善最低比特宽度的量化模型。我们的提议在包括MobileNet V1/V2和ResNet50在内的一系列模型上应用的技术，我们证明了位宽度权重和激活是自适应的可执行的深层神经网络，提供了一个明显的机会来提高准确性和效率基于平台约束的即时自适应实际应用程序。
+
 - [2020R][Switchable Precision Neural Networks](https://arxiv.org/pdf/2002.02815.pdf)
 - [2020R ICLR][Mixed Precision DNNs: All you need is a good parametrization](https://openreview.net/pdf?id=Hyx0slrFvH)
 - [2020R][AutoQB: AutoML for Network Quantization and Binarization on Mobile Devices](https://arxiv.org/pdf/1902.05690.pdf)
