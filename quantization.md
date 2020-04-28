@@ -76,4 +76,4 @@
 - [2020R ICLR][AutoQ: Automated Kernel-Wise Neural Network Quantization](https://arxiv.org/pdf/1902.05690.pdf)
 利用强化学习来训练Kernel-Wise的量化神经网络， Resnet-18 Resnet-50 MobileNetV2 4bit左右的实验
 
-- [2020 CVPR][Training Quantized Network with Auxiliary Gradient Module](https://arxiv.org/pdf/1903.11236.pdf)
+- [2020 CVPR][Training Quantized Neural Networks with a Full-precision Auxiliary Module](https://arxiv.org/pdf/1903.11236.pdf) 全精度辅助模块训练量化神经网络
