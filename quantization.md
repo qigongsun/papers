@@ -73,5 +73,7 @@
 本文提出了一种灵活的量化策略，称为可切换精确神经网络（SP-net），用来训练一个能够在多个量化级别上工作的共享网络。在运行时，网络可以根据即时内存、延迟、功耗和准确性动态调整其精度要求。MobileNet ResNet-18 2bit 8bit 32bit实验
 - [2020R ICLR][Mixed Precision DNNs: All you need is a good parametrization](https://openreview.net/pdf?id=Hyx0slrFvH)
 提出用步长和动态范围对量化器进行参数化。 MobileNetV2 ResNet-18 4bit实验
-- [2020R][AutoQB: AutoML for Network Quantization and Binarization on Mobile Devices](https://arxiv.org/pdf/1902.05690.pdf)
+- [2020R ICLR][AutoQ: Automated Kernel-Wise Neural Network Quantization](https://arxiv.org/pdf/1902.05690.pdf)
+利用强化学习来训练Kernel-Wise的量化神经网络
+
 - [2020 CVPR][Training Quantized Network with Auxiliary Gradient Module](https://arxiv.org/pdf/1903.11236.pdf)
