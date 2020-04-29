@@ -74,3 +74,6 @@
 利用强化学习来训练Kernel-Wise的量化神经网络， Resnet-18 Resnet-50 MobileNetV2 4bit左右的实验
 
 - [2020 CVPR][Training Quantized Neural Networks with a Full-precision Auxiliary Module](https://arxiv.org/pdf/1903.11236.pdf) 全精度辅助模块训练量化神经网络
+
+- [2019][Towards Efficient Training for Neural Network Quantization](https://arxiv.org/pdf/1912.10207.pdf)
+训练量化网络 ResNet-50 MobileNetV1 MobileNetV2 2/2 3/3 4/4 bit 实验对比
