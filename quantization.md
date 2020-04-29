@@ -84,3 +84,7 @@
 
 - [2020][ZeroQ: A Novel Zero Shot Quantization Framework](https://arxiv.org/pdf/2001.00281.pdf)
 ZEROQ允许混合精度量化，而无需访问训练或验证数据。这是通过优化一个蒸馏数据集来实现的，该数据集被设计为跨网络的不同层匹配批处理规范化的统计信息。ZEROQ支持均匀和混合精度量化。对于后者，我们引入了一种新的基于Pareto前沿的方法，在不需要人工搜索的情况下，自动确定所有层的混合精度比特设置。我们在一组不同的模型上对我们提出的方法进行了广泛的测试，包括ResNet18/50/152、MobileNetV2、ShuffleNet、squezenext和ImageNet上的InceptionV3，以及Microsoft COCO数据集。
+- [2019][Single Path One-Shot Neural Architecture Search with Uniform Sampling](https://arxiv.org/pdf/1904.00420.pdf)
+- [2018][Stochastic Layer-Wise Precision in Deep Neural Networks](https://arxiv.org/pdf/1807.00942.pdf)
+- [2020][Rethinking Differentiable Search for Mixed-Precision Neural Networks](https://arxiv.org/pdf/2004.05795.pdf)
+- [][]()
