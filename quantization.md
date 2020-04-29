@@ -25,8 +25,7 @@
 - [ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks](https://arxiv.org/pdf/1706.02393.pdf)
 - [Trained Ternary Quantization](https://arxiv.org/pdf/1612.01064.pdf)
 - [Defensive Quantization: When Efficiency Meets Robustness](https://arxiv.org/pdf/1904.08444.pdf)
-- [Differentiable soft quantization: Bridging full-precision and low-bit neural networks](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gong_Differentiable_Soft_Quantization_Bridging_Full-Precision_and_Low-Bit_Neural_Networks_ICCV_2019_paper.pdf)
-- [HAWQ: Hessian AWare Quantization of Neural Networks with Mixed-Precision](https://arxiv.org/pdf/1905.03696.pdf)
+- [Differentiable soft quantization: Bridging full-precision and low-bit neural networks](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gong_Differentiable_Soft_Quantization_Bridging_Full-Precision_and_Low-Bit_Neural_Networks_ICCV_2019_paper.pdf) ResNet-18 MobileNetV2 3/3 4/4 实验对比
 - [Structured Binary Neural Networks for Image Recognition](https://arxiv.xilesou.top/pdf/1909.09934.pdf)
 - [GDRQ: Group-based Distribution Reshaping for Quantization](https://arxiv.xilesou.top/pdf/1908.01477.pdf)
 - [On the Universal Approximability and Complexity Bounds of Quantized ReLU Neural Networks](https://arxiv.xilesou.top/pdf/1802.03646.pdf)
