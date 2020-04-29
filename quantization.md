@@ -38,9 +38,9 @@
 #### mix-bit quantization
 - [2017][Mixed Low-precision Deep Learning Inference using Dynamic Fixed Point](https://arxiv.xilesou.top/pdf/1701.08978.pdf)
 - [2017][Stochastic Quantization for Learning Accurate Low-Bit Deep Neural Networks](https://link_springer.xilesou.top/article/10.1007/s11263-019-01168-2)
+- [2018][Highly scalable deep learning training system with mixed precision: Training imagenet in four minutes](https://arxiv.xilesou.top/abs/1807.11205)
 - [2018][Mixed precision quantization of convnets via differentiable neural architecture search](https://arxiv.xilesou.top/pdf/1812.00090.pdf)
 - [ICLR2018][Mixed precision training](https://arxiv.xilesou.top/pdf/1710.03740.pdf%EF%BC%89。)
-- [2018][Highly scalable deep learning training system with mixed precision: Training imagenet in four minutes](https://arxiv.xilesou.top/abs/1807.11205)
 
 - [2018][Mixed precision training of convolutional neural networks using integer operations](https://arxiv.xilesou.top/abs/1802.00930)
 
@@ -58,20 +58,18 @@
 - [2019 CVPR][Learning to quantize deep networks by optimizing quantization intervals with task loss](http://openaccess.thecvf.com/content_CVPR_2019/html/Jung_Learning_to_Quantize_Deep_Networks_by_Optimizing_Quantization_Intervals_With_CVPR_2019_paper.html) 
 学习量化区间，包含多种bit的对比实验结果 W/A 2、3、4、5
 
-- [2019][Differentiable quantization of deep neural networksarXiv:1905.11452](https://arxiv.org/abs/1905.11452)
-
 - [2019][HAQ: Hardware-Aware Automated Quantization with Mixed Precision](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_HAQ_Hardware-Aware_Automated_Quantization_With_Mixed_Precision_CVPR_2019_paper.pdf)
 强化学习搜索网络每层的量化精度，MobileNet-V1， MobileNet-V2， Resnet-50
 
 - [2019][HAWQ: Hessian AWare Quantization of Neural Networks with Mixed-Precision](https://arxiv.org/pdf/1905.03696.pdf)
 - [2020R][Learning Architectures for Binary Networks](https://arxiv.org/pdf/2002.06963.pdf)
-- [2019R][Any-Precision Deep Neural Networks](https://arxiv.org/pdf/1911.07346.pdf)
+- [2019R][Any-Precision Deep Neural Networks](https://arxiv.org/pdf/1911.07346.pdf) 训练一个模型，不需要精调就可以适应多种bit的量化
 - [2020R][AdaBits: Neural Network Quantization with Adaptive Bit-Widths](https://arxiv.org/pdf/1912.09666.pdf)
 在本文中，我们研究了一种新的方法来实现这一目标，即启用自适应比特宽度模型中的权重和激活。我们首先检查训练量化模型的好处和挑战自适应比特宽度，然后使用几种方法进行实验，包括直接自适应、渐进式训练以及联合训练。我们发现联合训练能够在自适应模型上产生可比的性能个别模型。我们还提出了一种新技术可切换限幅电平（S-CL），进一步改善最低比特宽度的量化模型。我们的提议在包括MobileNet V1/V2和ResNet50在内的一系列模型上应用的技术，我们证明了位宽度权重和激活是自适应的可执行的深层神经网络，提供了一个明显的机会来提高准确性和效率基于平台约束的即时自适应实际应用程序。
 
 - [2020R][Switchable Precision Neural Networks](https://arxiv.org/pdf/2002.02815.pdf)
 本文提出了一种灵活的量化策略，称为可切换精确神经网络（SP-net），用来训练一个能够在多个量化级别上工作的共享网络。在运行时，网络可以根据即时内存、延迟、功耗和准确性动态调整其精度要求。MobileNet ResNet-18 2bit 8bit 32bit实验
-- [2020R ICLR][Mixed Precision DNNs: All you need is a good parametrization](https://openreview.net/pdf?id=Hyx0slrFvH)
+- [2020R ICLR][Mixed Precision DNNs: All you need is a good parametrization](https://arxiv.org/pdf/1905.11452.pdf)
 提出用步长和动态范围对量化器进行参数化。 MobileNetV2 ResNet-18 4bit实验
 - [2020R ICLR][AutoQ: Automated Kernel-Wise Neural Network Quantization](https://arxiv.org/pdf/1902.05690.pdf)
 利用强化学习来训练Kernel-Wise的量化神经网络， Resnet-18 Resnet-50 MobileNetV2 4bit左右的实验
