@@ -77,3 +77,7 @@
 
 - [2019][Towards Efficient Training for Neural Network Quantization](https://arxiv.org/pdf/1912.10207.pdf)
 训练量化网络 ResNet-50 MobileNetV1 MobileNetV2 2/2 3/3 4/4 bit 实验对比
+
+- [2020][Mixed Precision Neural Architecture Search for Energy Efficient Deep Learning](http://yibolin.com/publications/papers/NAS_ICCAD2019_Gong.pdf)
+本文提出了一种在神经网络结构和量化空间上进行端到端联合优化的新方法。我们的方法寻找结构和精度（比特宽度）的最佳组合，以直接优化预测精度和硬件能耗。
+以MobileNetV2为基本模型框架，搜索cell的(s, m, k, b1, b2)。
