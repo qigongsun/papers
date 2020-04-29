@@ -81,3 +81,6 @@
 - [2020][Mixed Precision Neural Architecture Search for Energy Efficient Deep Learning](http://yibolin.com/publications/papers/NAS_ICCAD2019_Gong.pdf)
 本文提出了一种在神经网络结构和量化空间上进行端到端联合优化的新方法。我们的方法寻找结构和精度（比特宽度）的最佳组合，以直接优化预测精度和硬件能耗。
 以MobileNetV2为基本模型框架，搜索cell的(s, m, k, b1, b2)。
+
+- [2020][ZeroQ: A Novel Zero Shot Quantization Framework](https://arxiv.org/pdf/2001.00281.pdf)
+ZEROQ允许混合精度量化，而无需访问训练或验证数据。这是通过优化一个蒸馏数据集来实现的，该数据集被设计为跨网络的不同层匹配批处理规范化的统计信息。ZEROQ支持均匀和混合精度量化。对于后者，我们引入了一种新的基于Pareto前沿的方法，在不需要人工搜索的情况下，自动确定所有层的混合精度比特设置。我们在一组不同的模型上对我们提出的方法进行了广泛的测试，包括ResNet18/50/152、MobileNetV2、ShuffleNet、squezenext和ImageNet上的InceptionV3，以及Microsoft COCO数据集。
