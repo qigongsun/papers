@@ -54,6 +54,8 @@
 
 - [2019][Adaptive Precision Training: Quantify Back Propagation in Neural Networks with Fixed-point Numbers](https://arxiv.xilesou.top/abs/1911.00361)
 
+- [2019 IJCAI][KCNN: Kernel-wise Quantization to Remarkably Decrease Multiplications in Convolutional Neural Network](https://www.ijcai.org/Proceedings/2019/0588.pdf) 本文将每个核中的浮点权值分别量化为多个位平面，以显著减少乘法。我们通过一个激进的Lloyd算法得到一个封闭的解，并采用微调来优化位平面。此外，我们还提出了双重标准化来解决微调过程中的病理曲率问题。AlexNet.Resnet-18 1,2,3,4,5bit 实验对比
+
 - [2019 CVPR][Learning to quantize deep networks by optimizing quantization intervals with task loss](http://openaccess.thecvf.com/content_CVPR_2019/html/Jung_Learning_to_Quantize_Deep_Networks_by_Optimizing_Quantization_Intervals_With_CVPR_2019_paper.html) 
 学习量化区间，包含多种bit的对比实验结果 W/A 2、3、4、5
 
