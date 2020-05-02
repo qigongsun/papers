@@ -87,4 +87,5 @@ ZEROQ允许混合精度量化，而无需访问训练或验证数据。这是通
 - [2019][Single Path One-Shot Neural Architecture Search with Uniform Sampling](https://arxiv.org/pdf/1904.00420.pdf)
 - [2018][Stochastic Layer-Wise Precision in Deep Neural Networks](https://arxiv.org/pdf/1807.00942.pdf)
 - [2020][Rethinking Differentiable Search for Mixed-Precision Neural Networks](https://arxiv.org/pdf/2004.05795.pdf)
+在这项工作中，考虑了最佳混合精度网络搜索（MPS）问题。为了解决离散搜索空间和边缘优化的难题，提出了一种新的可微分搜索体系结构，它通过利用MPS问题的独特性质，为提高效率提供了一些新颖的贡献。所产生的有效的微分混合精度网络搜索（EdMIPS）方法可以有效地找到多个流行网络的最佳比特分配，并且可以搜索大型模型，例如在合理的时间内直接在ImageNet上直接运行Inception-V3，而无需代理任务.
 - [2019][HAWQ-V2: Hessian Aware trace-Weighted Quantization of Neural Networks](https://arxiv.org/pdf/1911.03852.pdf)
