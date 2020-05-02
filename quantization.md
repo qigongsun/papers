@@ -87,4 +87,4 @@ ZEROQ允许混合精度量化，而无需访问训练或验证数据。这是通
 - [2019][Single Path One-Shot Neural Architecture Search with Uniform Sampling](https://arxiv.org/pdf/1904.00420.pdf)
 - [2018][Stochastic Layer-Wise Precision in Deep Neural Networks](https://arxiv.org/pdf/1807.00942.pdf)
 - [2020][Rethinking Differentiable Search for Mixed-Precision Neural Networks](https://arxiv.org/pdf/2004.05795.pdf)
-- [][]()
+- [2019][HAWQ-V2: Hessian Aware trace-Weighted Quantization of Neural Networks](https://arxiv.org/pdf/1911.03852.pdf)
