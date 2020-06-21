@@ -38,7 +38,7 @@
 - [2017][Mixed Low-precision Deep Learning Inference using Dynamic Fixed Point](https://arxiv.xilesou.top/pdf/1701.08978.pdf)
 - [2017][Stochastic Quantization for Learning Accurate Low-Bit Deep Neural Networks](https://link_springer.xilesou.top/article/10.1007/s11263-019-01168-2)
 - [2018][Highly scalable deep learning training system with mixed precision: Training imagenet in four minutes](https://arxiv.xilesou.top/abs/1807.11205)
-- [2018][Mixed precision quantization of convnets via differentiable neural architecture search](https://arxiv.xilesou.top/pdf/1812.00090.pdf)
+- [2018][Mixed precision quantization of convnets via differentiable neural architecture search](https://arxiv.org/pdf/1812.00090.pdf)
 - [ICLR2018][Mixed precision training](https://arxiv.xilesou.top/pdf/1710.03740.pdf%EF%BC%89。)
 
 - [2018][Mixed precision training of convolutional neural networks using integer operations](https://arxiv.xilesou.top/abs/1802.00930)
